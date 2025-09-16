@@ -28,8 +28,3 @@ for (let i = 0; i < name.length; i++) {
     );
 }
 
-// for (let i = 0; i < name.length; i++) {
-//     console.log(
-//         "\n" + name[i].innerText + "\n\n" + text[i].innerText
-//     );
-// }
