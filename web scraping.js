@@ -3,10 +3,10 @@
 // Verifico se estou puxando corretamente os dados do título do filme
 document.querySelector('.css-qivzgb')
 
-// Crio uma variável 'name' para armazenar todos os elementos de título dos filmes
+// Crio uma variável 'name' para armazenar o elemento de título dos filme
 let name = document.querySelectorAll('.css-qivzgb')
 
-// Faço um for para percorrer a lista 'name' e exibir cada título de filme no console
+// Faço um for para percorrer a lista 'name' e exibir o título do filme no console
 for (i = 0; i < name.length; i++) {
     console.log(name[i].innerText)
 }
